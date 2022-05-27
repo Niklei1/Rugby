@@ -1,0 +1,64 @@
+h1{
+    color: #993E2A;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    color: #993E2A;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #993E2A;
+    font-size: 25px;
+    border: darkgray;
+    border: 25px;
+    
+    
+}
+
+h4{
+    text-align: center;
+    color:#993E2A;
+}
+
+li{
+    color: #993E2A;
+    text-align: center;
+}
+
+h5{
+    color: #993E2A;
+    font-size: large;
+    
+}
+
+.lineout {
+    margin-left: 1350px;
+    margin-top: -900px;
+}
+
+.scrum {
+    margin-right: 1350px;
+    margin-top: -900px;
+}
+
+.align {
+    text-align: end;
+}
+
+.places {
+    margin-right: 1000px;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+}
+
+.important {
+    color: blue; 
+    background-color: #993E2A; 
+}

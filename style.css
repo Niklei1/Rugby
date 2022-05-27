@@ -1,0 +1,23 @@
+ 
+h1 {
+    color: #993E2A;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 75px;
+    
+}
+
+h2 {
+    color: #993E2A;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+.test{
+    position: absolute center ;
+    text-align: center;  
+    margin-left: 500px;
+    border:#993E2A;
+    border-width: 15px;
+    border-style:ridge
+
+}

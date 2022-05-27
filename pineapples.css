@@ -1,0 +1,43 @@
+h1 {
+color:#993E2A;
+}
+
+h2 {
+    color:#993E2A;
+}
+
+.test{ 
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+h3 { 
+    color:#993E2A
+}
+
+.learn{
+    background-image: url(https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2022/05/11113133/Rugby-World-Cup-trophy-ahead-of-2023-PA.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.yeppers {
+        margin-left: 1000px ;
+}
+
+.altron {
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.pool {
+    background-image: url(https://imagevars.gulfnews.com/2020/12/14/The-Rugby-World-Cup-2023-draw_176619cc24f_original-ratio.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.move {
+    text-align: bottom;
+}
